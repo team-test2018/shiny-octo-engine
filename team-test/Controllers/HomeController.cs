@@ -25,6 +25,7 @@ namespace team_test.Controllers
             ViewBag.Message = "Your contact page.";
             var a = 123;
             var b = 123;
+            var c = 123;
             return View();
         }
     }
