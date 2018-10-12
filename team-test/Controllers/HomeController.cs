@@ -29,6 +29,8 @@ namespace team_test.Controllers
             var d = 123;
             var e = 123;
 
+            var f = 123;
+
             return View();
         }
     }
