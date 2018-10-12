@@ -23,7 +23,7 @@ namespace team_test.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-
+            var a = 123;
             return View();
         }
     }
