@@ -28,10 +28,15 @@ namespace team_test.Controllers
             var b = 123;
             b = b + 1;
             var c = 123;
+            c = c * 2;
             var d = 123;
             var e = 123;
 
             var f = 123;
+
+            var g = 123;
+
+            //sfasfasfa
 
             return View();
         }
